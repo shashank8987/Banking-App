@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazybank related PROD APIs"
+  contactDetails:
+    name: "Ananth Ray PROD Owner"
+    email: "ananth@eazybank.com"
+  onCallSupport:
+    -(453)666-1234
+    -(196)523-1345
