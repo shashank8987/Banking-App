@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to eazyBank loans related QA APIs"
+  contactDetails:
+    name: "Cyarano"
+    email: "cyarano@gmail.com"
+  onCallSupport:
+    - (785) 987-2539
+    - (534) 359-4395
