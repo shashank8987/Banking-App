@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="752ce59d-745f-4043-8249-a5574cff6c43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/configserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsContactInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsContactInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/cards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cards/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/loans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +34,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AccountsApplication.executor": "Run",
+    "Application.CardsApplication.executor": "Run",
     "Application.ConfigserverApplication.executor": "Run",
+    "Application.LoansApplication.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -41,11 +50,10 @@
       <recent name="E:\Microservices\section2\configserver\src\main\resources\config" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConfigserverApplication">
+  <component name="RunManager" selected="Application.AccountsApplication">
     <configuration name="AccountsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.eazybytes.accounts.AccountsApplication" />
       <module name="accounts" />
-      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=qa" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.eazybytes.accounts.*" />
@@ -97,10 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConfigserverApplication" />
+        <item itemvalue="Application.AccountsApplication" />
         <item itemvalue="Application.LoansApplication" />
         <item itemvalue="Application.CardsApplication" />
-        <item itemvalue="Application.AccountsApplication" />
+        <item itemvalue="Application.ConfigserverApplication" />
       </list>
     </recent_temporary>
   </component>
