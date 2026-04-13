@@ -2,6 +2,7 @@ E:\Microservices\section2\loans\src\main\java\com\eazybytes\loans\audit\AuditAwa
 E:\Microservices\section2\loans\src\main\java\com\eazybytes\loans\constants\LoansConstants.java
 E:\Microservices\section2\loans\src\main\java\com\eazybytes\loans\controller\LoansController.java
 E:\Microservices\section2\loans\src\main\java\com\eazybytes\loans\dto\ErrorResponseDto.java
+E:\Microservices\section2\loans\src\main\java\com\eazybytes\loans\dto\LoansContactInfoDto.java
 E:\Microservices\section2\loans\src\main\java\com\eazybytes\loans\dto\LoansDto.java
 E:\Microservices\section2\loans\src\main\java\com\eazybytes\loans\dto\ResponseDto.java
 E:\Microservices\section2\loans\src\main\java\com\eazybytes\loans\entity\BaseEntity.java
